@@ -1,2 +1,2 @@
-# XKAppium
-Appium移动端android UI框架
+# XKADB
+移动端android 稳定性压测脚本adb整和
