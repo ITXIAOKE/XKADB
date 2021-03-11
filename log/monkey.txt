@@ -1,0 +1,41 @@
+:Monkey: seed=1000 count=0
+:AllowPackage: com.a1chemic.owner.android
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+//   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+//   - NOT USING main activity com.bignox.app.store.hd.StoreActivity (from package com.bignox.app.store.hd)
+//   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+//   - NOT USING main activity com.cyanogenmod.filemanager.activities.NavigationActivity (from package com.cyanogenmod.filemanager)
+//   - NOT USING main activity com.android.gallery3d.app.GalleryActivity (from package com.android.gallery3d)
+//   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+//   - NOT USING main activity com.vphone.launcher.Launcher (from package com.vphone.launcher)
+//   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+//   - NOT USING main activity com.bignox.google.installer.MainActivity (from package com.bignox.google.installer)
+//   - NOT USING main activity com.vphone.helper.MainActivity (from package com.vphone.helper)
+//   - NOT USING main activity io.appium.settings.Settings (from package io.appium.settings)
+//   - NOT USING main activity io.appium.unlock.Unlock (from package io.appium.unlock)
+//   + Using main activity net.sourceforge.simcpux.activity.user.YeZhu_Activity_welcome (from package com.a1chemic.owner.android)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+//   - NOT USING main activity com.vphone.launcher.Launcher (from package com.vphone.launcher)
+// Seeded: 1000
+// Event percentages:
+//   0: -0.0%
+//   1: -0.0%
+//   2: 0.0%
+//   3: -0.0%
+//   4: -0.0%
+//   5: 0.0%
+//   6: 0.0%
+//   7: 100.0%
+//   8: -0.0%
+//   9: 0.0%
+//   10: 0.0%
+Events injected: 0
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=17ms (0ms mobile, 0ms wifi, 17ms not connected)
+// Monkey finished
